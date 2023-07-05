@@ -11,19 +11,17 @@ main {
   background-color: rgb(102,102,102);
   width: 1000px;
   height: 30px;
-  
   }
   .text{
-   
     display: flex;
     direction: flex;
     justify-content: space-evenly;
     font-family: "NarrowNews"; 
+    font:underlined;
     font-size: 20px; 
     color: white;
     text-decoration-line: underline;
-   }
-  
+  }
 
 @font-face {
   font-family: "NarrowNews"; 

@@ -17,6 +17,10 @@ main {
     justify-content: space-evenly;
     font:underlined;
     font-size: 20px; 
+    font-family: "NarrowNews"; 
+    src: url("./fonts/ClanOT-NarrowNews.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
     color: white;
     text-decoration-line: underline;
   }
